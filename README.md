@@ -46,10 +46,8 @@
  ### Here are the screenshots of the project
  
  ## • Database Structure
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/databases.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/Feedback%20form.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/employee%20db.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/user%20database.jpeg">
+ <img src="Images/a.png">
+ 
  
  ## • User
  
