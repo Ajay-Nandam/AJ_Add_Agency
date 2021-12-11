@@ -51,12 +51,12 @@
  
  ## • User
  
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/login%20Screen.jpg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/Registration%20Screen.jpg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/home.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/About.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/Contact.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/home%202.jpeg">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Home.png">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
+ <img src="">
  
  ## • Admin
  
