@@ -64,7 +64,7 @@
 
 ## 👨‍🚀 Show your support
  Give a ⭐️ if this project helped you!<br/>
- If you have any issues or faces any bugs while running feel free to tag me in issues or email me sushanthrao2001@gmail.com!
+ If you have any issues or faces any bugs while running feel free to tag me in issues or email me ajay1304122@gmail.com!
 
 ----
 Created by <a href="https://github.com/Ajay-Nandam
