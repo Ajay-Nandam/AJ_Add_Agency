@@ -46,24 +46,19 @@
  ### Here are the screenshots of the project
  
  ## • Database Structure
- <img src="Images/a.png">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/a.png">
  
  
  ## • User
  
  <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Home.png">
- <img src="">
- <img src="">
- <img src="">
- <img src="">
- <img src="">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Register.png">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Login.png">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Adds.png">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/Contact.png">
+ <img src="https://github.com/Ajay-Nandam/AJ_Add_Agency/blob/main/Images/About.png">
  
- ## • Admin
  
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/admin_login.jpg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/admin_adding%20employee.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/admin_view%20Employees.jpeg">
- <img src="https://github.com/Sushanthrao2001/Household_Solutions-Web/blob/master/Screenshots/admin_update%20employee.jpeg">
  
  <p>&nbsp;</p>
 
